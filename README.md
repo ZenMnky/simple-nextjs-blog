@@ -11,4 +11,4 @@ _'In sterquiliniis invenitur'_
 Writing and sharing my stories is one of my significant dragons, and now is the time to finally take it on, get the gold, and share the treasures with my community.
 
 ## How?
- - One bumbling step forward at a time, towards the im light that beckons
+ - One bumbling step forward at a time, towards the dim light that beckons
