@@ -20,8 +20,10 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello 👋,
-          I'm <em>Justin Hager</em>. 
-          This is my simple blog where I share my acroyoga practice and my stories, my learnings, and those things that I wish I would have known sooner.
+          I'm Justin Hager. 
+        </p>
+        <p>
+          This is my simple blog where I share my acroyoga practice, my stories, my learnings, and those things that I wish I would have known sooner.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
