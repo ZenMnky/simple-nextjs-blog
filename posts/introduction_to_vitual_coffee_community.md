@@ -59,7 +59,7 @@ I've spent over a decade focusing on improving my communication and relationship
 - Looking to make a break-in to the tech field and find out how I can best contribute.
     - I've recently begun to consider that my skills could be well applied as a liaison between a tech team and other stakeholders. Pretty similar to my role as program coordinator for a University's personal training program, similar to work I've done with a non-profit, and similar to work I've done as a personal trainer and health coach (many of my clients worked at the nearby Intel campus, or the IT department of Nike).
      - Volunteered to help with Life Church's Open Network team, but it seems like I've been ghosted (ouch, lol.)
-- I'm finishing up fullstack program through Thinkful (they were bought out by Chegg and completely changed the program - do not recommend).
+- I'm finishing up a fullstack program through Thinkful (they were bought out by Chegg and completely changed the program - do not recommend).
 - On the side, I've been playing around with Unix a bit. Set up a headless raspberry pi on my wireless network just as a learning project, and I mess around with WSL2 now and then. Nothing too intense, just little things here and there to learn.
 - I recently came across the JAM stack when looking up ideas on creating a simple blog that utilizes markdown files (my main journaling media). Now I'm wanting to keep going down this rabbit hole and build something with 11ty and Agility CMS.
 - I have a reoccurring notion that that which will move me forward towards the life and person that I want to be is sharing my stories (putting myself out there) - this introduction post is a bumbling attempt to do so.
@@ -74,6 +74,9 @@ I look forward to being more involved in this community and getting to know more
 _[LinkedIn](https://www.linkedin.com/in/developerjustinhager/)_
 
 
-> _'Pursue what is meaningful, not what is expedient' - Jordan B Peterson_
+> _'Pursue what is meaningful, not what is expedient' - Jordan B Peterson_  
 
 
+
+----------
+VirtualCoffee.io
