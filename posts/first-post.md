@@ -1,5 +1,5 @@
 ---
-title: 'Initial Post'
+title: 'First Post'
 date: '2021-01-30'
 ---
 
