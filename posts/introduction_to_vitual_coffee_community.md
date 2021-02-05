@@ -18,7 +18,7 @@ Atheistic Anti-Christian, Buddhism, New-Age Neo-Pagan-esque and Psychonautics, Y
 '----   
 📈 **Personality Profile**: 
 
-[Big 5 Aspects Scale](https://www.understandmyself.com/personality-assessment): 
+[Big 5 Aspects Scale](https://www.understandmyself.com/personality-assessment) 
  - Agreeableness: 74th percentile
  - Compassion: 72nd percentile
  - Politeness: 71st percentile
