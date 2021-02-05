@@ -51,7 +51,7 @@ I've spent over a decade focusing on improving my communication and relationship
 '----   
 🤸 **For fun**: 
 - I really enjoy Korean shows on Netflix, in a similar way that I've very much enjoyed Japanese anime. I'm particularly attracted to how they convey relationship status through their speech. For example, the different ways to communicate nuances of ['I love you'](https://www.wikihow.com/Say-I-Love-You-in-Korean)
-- I adore acroyoga
+- I adore [acroyoga](https://youtu.be/D3JW31Wq2Y0)
 - **I enjoy authentic conversations. Let's chat sometime :)**
 
 '----   
