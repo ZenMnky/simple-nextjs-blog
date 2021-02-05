@@ -28,7 +28,7 @@ Atheistic Anti-Christian, Buddhism, New-Age Neo-Pagan-esque and Psychonautics, Y
  - Extraversion: 88th percentile
  - Enthusiasm: 70th percentile
  - Assertiveness: 92nd percentile
- - Neuroticism, Withdrawl, Volatility: 'Exceptionally low'
+ - Neuroticism, Withdrawal, Volatility: 'Exceptionally low'
  - Openness:  57th percentile `// I think this is way to low :p`
  - Intellect (interest in abstract ideas, not IQ measure): 82nd percentile 
 
@@ -50,19 +50,19 @@ I've spent over a decade focusing on improving my communication and relationship
 
 '----   
 🤸 **For fun**: 
-- I really enjoy Korean shows on Netflix, in a similar way that I've very much enjoyed Japaneese anime. I'm particuarly attracted to how they convey relationship status through their speech. For example, the different ways to communicate nuances of ['I love you'](https://www.wikihow.com/Say-I-Love-You-in-Korean)
+- I really enjoy Korean shows on Netflix, in a similar way that I've very much enjoyed Japanese anime. I'm particularly attracted to how they convey relationship status through their speech. For example, the different ways to communicate nuances of ['I love you'](https://www.wikihow.com/Say-I-Love-You-in-Korean)
 - I adore acroyoga
 - **I enjoy authentic conversations. Let's chat sometime :)**
 
 '----   
 📍 👨‍💻  **What am I up to right now in the tech domain?**
 - Looking to make a break-in to the tech field and find out how I can best contribute.
-    - I've recently begun to consider that my skills could be well applied as a liason between a tech team and other stakeholders. Pretty similar to my role as program coordinator for a University's personal training program, similar to work I've done with a non-profit, and similar to work I've done as a personal trainer and health coach (many of my clients worked at the nearby Intel campus, or the IT department of Nike).
+    - I've recently begun to consider that my skills could be well applied as a liaison between a tech team and other stakeholders. Pretty similar to my role as program coordinator for a University's personal training program, similar to work I've done with a non-profit, and similar to work I've done as a personal trainer and health coach (many of my clients worked at the nearby Intel campus, or the IT department of Nike).
      - Volunteered to help with Life Church's Open Network team, but it seems like I've been ghosted (ouch, lol.)
-- I'm finishing up fullstack program through Thinkful (they were bought out by Chegg and completly changed the program - do not reccomend).
+- I'm finishing up fullstack program through Thinkful (they were bought out by Chegg and completely changed the program - do not recommend).
 - On the side, I've been playing around with Unix a bit. Set up a headless raspberry pi on my wireless network just as a learning project, and I mess around with WSL2 now and then. Nothing too intense, just little things here and there to learn.
 - I recently came across the JAM stack when looking up ideas on creating a simple blog that utilizes markdown files (my main journaling media). Now I'm wanting to keep going down this rabbit hole and build something with 11ty and Agility CMS.
-- I have a reoccuring notion that that which will move me forward towards the life and person that I want to be is sharing my stories (putting myself out there) - this introduction post is a bubmling attempt to do so.
+- I have a reoccurring notion that that which will move me forward towards the life and person that I want to be is sharing my stories (putting myself out there) - this introduction post is a bumbling attempt to do so.
 
 👉 I respond well to straight-forward criticism. Any criticism of my online presence and work is welcome with open arms and would be considered a gift 💙🎁 
 
