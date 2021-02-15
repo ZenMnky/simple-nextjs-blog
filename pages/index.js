@@ -26,8 +26,21 @@ export default function Home({ allPostsData }) {
           I'm Justin Hager. 
         </p>
         <p>
-          This is my simple blog where I share my acroyoga practice, my stories, my learnings, and those things that I wish I would have known sooner.
+          This is a a place for me to spill out creative chaos and try to make sense of things.
         </p>
+        <p>
+          This will be messy.
+        </p>
+        <div>
+          <blockquote>
+            <em>
+              So you stumble around like an idiot, when you try to do something new. [...] you have to be a fool before you can be a master, and if you’re not willing to be a fool, you can’t be a master.
+            </em>
+          </blockquote>
+          <p>
+            - Jordan B Peterson, <a href='https://www.jordanbpeterson.com/transcripts/biblical-series-xv/' target='_blank'>Biblical Series XV</a>
+          </p>
+          </div>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
